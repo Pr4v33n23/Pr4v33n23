@@ -1,6 +1,17 @@
 - 👋 Hi, I’m Praveen
-- 👀 I’m a fullstack web dev and does anything that inspires me. 
-- 🌱 I’m currently learning react. Things I'm familiar are .NET technologies, python, JS-TS, RDBMS and NON-RDBMS.
+- 😀 I’m a software engineer from TN, India. 
+- 🌱 I’m currently learning **blockchain development with Rust/Solana** ecosystem.
+- 🛠️ Skill-set: 
+
+        {
+          backend-tech: [dotnet core (C#), Nodejs (JS), Python, Rust*],
+          frontend-tech: [React (JS/TS),],
+          database-tech: [MSSQL, Redis],
+          cloud: [Azure,],
+          miscellaneous: [Git, Azure DevOps, Powershell scripting],
+          certification: [AZ-900, AZ-204, DP-100, AZ-400], 
+        }
+     
 - 📫 You can reach me @_Pr4v33n IG, Email :- praveen.jaisankar@gmail.com
 
 <!---
